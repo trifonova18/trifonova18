@@ -22,7 +22,7 @@
 🌱 Завершила курсы по <a href="https://github.com/trifonova18/pythonProject2">Python</a>
  на Stepic 
 
-🌱 Завершила курсы по Тестированию на Stepic
+🌱 Завершила курсы по <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium">Тестированию</a> на Stepic 
 
 🌱 Заканчиваю обучение по MySQL на Stepic и SQI Academy
 
