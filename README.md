@@ -17,9 +17,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=trifonova18&style=flat-square&color=blue" align="center"/>
 
+<div id="header" align="left">
 <h3>
 Немного обо мне
 </h3>
+</div>
 <div id="header" align="left">
 Я начинающий тестировщик ПО. Мой путь в it начался с Московского университет "Синергия", по специальности Тестировщик-автоматизатор, где я прошла интенсив.
 После интенсива я прошла курс "Тестирование ПО с Нуля до Специалиста",пробовала себя во многих направлениях, изучала Python, MySQL, Git, Jira и Postman. 
