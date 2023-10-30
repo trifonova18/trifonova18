@@ -12,10 +12,10 @@
 
 <div id="header" align="center">
 <h1>
-  Привет всем, я Наталья! 
+  Привет всем, я Наталья!<img src="https://komarev.com/ghpvc/?username=trifonova18&style=flat-square&color=blue" align="center"/> 
 </h1> 
 </div>
-<img src="https://komarev.com/ghpvc/?username=trifonova18&style=flat-square&color=blue" align="center"/>
+
 
 <h3>
 Немного обо мне
