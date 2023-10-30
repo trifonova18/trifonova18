@@ -5,8 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trifonova18" alt="trifonova18" /></a> </p>
 
+- 📄 Мое резюме на hh.ru [https://spb.hh.ru/resume/096bf414ff0c7cdbfd0039ed1f506251395851](https://spb.hh.ru/resume/096bf414ff0c7cdbfd0039ed1f506251395851)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/@consciousness_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@consciousness_n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
