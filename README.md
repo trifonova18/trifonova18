@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
   <a href="https://vk.com/ya_tomatik">
-    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/vcontacte?style=for-the-badge&logo=vcontacte&logoColor=white" alt="vcontacte Badge"/>
   </a>
   
 </div>
