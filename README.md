@@ -5,17 +5,6 @@
 
 ### <div align="center">Привет. Меня зовут Наталья Трифонова.</div>  
   
-
--   
-  
-
--   
-  
-
--   
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
