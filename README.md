@@ -4,7 +4,11 @@
 
 Мой путь в it начался с Московского университет "Синергия", по специальности Тестировщик-автоматизатор, где я прошла интенсив. После интенсива я прошла курс "Тестирование ПО с Нуля до Специалиста",пробовала себя во многих направлениях, изучала Python, MySQL, Git, Jira и Postman. В настоящий момент мое обучение на курсе завершено, но на этом я не останавливаюсь и продолжаю закреплять свои знания на практике. Со следующего месяца начинается мое очередное обучение по Тестированию (повышение квалификации).
 
-Skills: Python/ MySQL/ Git/ Postman/ Jira
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
 
 
 
