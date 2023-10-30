@@ -37,9 +37,10 @@
 🌱 Заканчиваю обучение по MySQL на Stepic и SQI Academy
 
 📫 Как связаться со мной: <a href="https://t.me/nata_trifonova">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"/>
   </a>
 </div>
+
 
 ---
 
