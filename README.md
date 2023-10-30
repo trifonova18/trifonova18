@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY1OGJleDQwbWpsbTNiMWtmY2FuOW42Zmo0enBqZ2NpN3g2bG9odiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8StiZqw5eR9sNiJe7S/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY1OGJleDQwbWpsbTNiMWtmY2FuOW42Zmo0enBqZ2NpN3g2bG9odiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8StiZqw5eR9sNiJe7S/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/nata_trifonova">
