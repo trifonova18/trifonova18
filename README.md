@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=trifonova18&style=flat-square&color=blue" align="center"/>
 </div>
 
-Привет всем, Меня зовут Наталья!
+<h1 Привет всем, Меня зовут Наталья! h1/>
 
 ---
 Немного обо мне
