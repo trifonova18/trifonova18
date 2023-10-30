@@ -1,3 +1,11 @@
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
