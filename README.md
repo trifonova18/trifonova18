@@ -5,7 +5,7 @@
 Я начинающий тестировщик. Мой путь в it начался с Московского университет "Синергия", по специальности Тестировщик-автоматизатор, где я прошла интенсив. После интенсива я прошла курс "Тестирование ПО с Нуля до Специалиста",пробовала себя во многих направлениях, изучала Python, MySQL, Git, Jira и Postman. В настоящий момент мое обучение на курсе завершено, но на этом я не останавливаюсь и продолжаю закреплять свои знания на практике. Со следующего месяца начинается мое очередное обучение по Тестированию (повышение квалификации).
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J5NGloamV3anZtcTB0Z3Zxajg1NGluZWg4dmFrdmkyMHBqdWprMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/nata_trifonova">
