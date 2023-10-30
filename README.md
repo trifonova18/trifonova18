@@ -16,14 +16,7 @@
 </h1> 
 </div>
 </div>
-<div id="badges" align="center">
-  <a href="https://t.me/nata_trifonova">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
-  <a href="https://www.instagram.com/consciousness_n?utm_source=qr">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>  
-</div>
+
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=trifonova18&style=flat-square&color=blue" align="center"/>
