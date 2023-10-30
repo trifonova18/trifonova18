@@ -1,4 +1,4 @@
-### Hi there 👋, Привет. Меня зовут Наталья
+### Привет👋, Меня зовут Наталья
 #### Я начинающий Тестировщик ПО
 ![Я начинающий Тестировщик ПО](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -13,6 +13,7 @@ Skills: Python/ MySQL/ Git/ Postman/ Jira
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trifonova18)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trifonova18&show_icons=true)  
+
 
 
 
