@@ -8,15 +8,16 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J5NGloamV3anZtcTB0Z3Zxajg1NGluZWg4dmFrdmkyMHBqdWprMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/telegramm-blue?style=for-the-badge&logo=telegramm&logoColor=white" alt="telegramm Badge"/>
+  <a href="https://t.me/nata_trifonova">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/consciousness_n?utm_source=qr">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://vk.com/ya_tomatik">
+    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
+  
 </div>
 
 ---
