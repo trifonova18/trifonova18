@@ -5,8 +5,8 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBlYzgxNnR6YWc1cmJtNzBwYTBmcGQyMXV1bHN6eDh5MmlrbjM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="190"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBlYzgxNnR6YWc1cmJtNzBwYTBmcGQyMXV1bHN6eDh5MmlrbjM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="190"/>
 
-
-
+<a target="_blank" rel="noopener noreferrer" href="/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg"><img width="600" src="/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
+<img width="600" src="/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;">
 
 
 
