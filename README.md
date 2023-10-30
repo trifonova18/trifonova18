@@ -16,7 +16,7 @@
 </div>
 <div id="header" align="center">
 <h1>
-  Привет всем, меня зовут Наталья!
+  Привет всем, меня зовут Наталья! <img src="https://media.giphy.com/media/EgWkHnePsN8wXKrxNZ/giphy.gif" width="30px"/>
 </h1> 
 </div>
 Немного обо мне
