@@ -48,11 +48,10 @@
 <div id="header" align="left">
 <b>GitHub статистика</b>
 
-<a href="http://www.github.com/trifonova18"><img align="left" src="https://github-readme-stats.vercel.app/api?username=trifonova18&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="trifonova18's GitHub stats" /></a>
+<a href="http://www.github.com/trifonova18"><img align="left" src="https://github-readme-stats.vercel.app/api?username=trifonova18&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="trifonova18's GitHub stats" style="max-width: 100%; /></a>
 
 <a href="https://github.com/trifonova18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifonova18&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-
 
 ---
 
