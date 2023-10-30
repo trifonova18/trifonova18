@@ -6,6 +6,12 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="198"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="198"/>
 
+
+<div id="header" align="center">
+<h1>
+  Привет всем, меня зовут Наталья! 
+</h1> 
+</div>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/nata_trifonova">
@@ -18,11 +24,6 @@
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=trifonova18&style=flat-square&color=blue" align="center"/>
-</div>
-<div id="header" align="center">
-<h1>
-  Привет всем, меня зовут Наталья! 
-</h1> 
 </div>
 <h3>
 Немного обо мне
