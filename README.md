@@ -12,7 +12,7 @@
 
 ---
 
-<b>My GitHub Stats</b>
+<b>GitHub статистика</b>
 
 <a href="http://www.github.com/trifonova18"><img src="https://github-readme-stats.vercel.app/api?username=trifonova18&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=312e81&hide_border=true&show_icons=true" alt="trifonova18's GitHub stats" /></a>
 
