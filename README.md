@@ -1,10 +1,11 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjM3lsbnV5dno4MWJ4N3ZxMmU4dmsyc2RwOTZ6enNtNDRpYzNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ZXA1Gb4uleV1nHVhF/giphy.gif" width="160"/>
+
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/nata_trifonova">
