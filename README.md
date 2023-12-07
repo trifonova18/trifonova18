@@ -24,7 +24,7 @@
 
 🌱 Завершила курсы по <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium">Тестированию</a> на Stepic
 
-🌱 Завершила курсы <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium"> Postman для тестирования API</a> на Stepic 
+🌱 Завершила курсы <a href="https://stepik.org/certificate/9c972bb5a0729bcbec231e1e9896a123a893d9a9.pdf"> Postman для тестирования API</a> на Stepic 
 
 🌱 Завершила курсы <a href="https://stepik.org/certificate/8579a46dc62c2e2a307f84128b3e0c65d1a4f785.pdf"> Вселенная тестирования</a> на Stepic 
 
