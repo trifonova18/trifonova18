@@ -26,6 +26,8 @@
 
 🌱 Завершила курсы <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium"> Postman для тестирования API</a> на Stepic 
 
+🌱 Завершила курсы <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium"> Вселенная тестирования</a> на Stepic 
+
 🌱 Заканчиваю обучение по MySQL на Stepic и <a href="https://github.com/trifonova18/-/blob/main/certificate-653c292ccc02750052816047.pdf">SQI Academy</a>
 
 📫 Как связаться со мной: <a href="https://t.me/nata_trifonova">
