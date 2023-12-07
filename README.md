@@ -19,7 +19,7 @@
 
 🔭 Закончила дополнительные курсы по повышению квалификации "Тестирование программного обеспечения"
 
-🌱 Завершила курсы по <a href="https://github.com/trifonova18/pythonProject2">Python</a>
+🌱 Завершила курсы по <a href="https://stepik.org/certificate/7e828de38e779c8b3a32efcbee046863fae45820.pdf">Python</a>
  на Stepic 
 
 🌱 Завершила курсы по <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium">Тестированию</a> на Stepic
