@@ -22,6 +22,9 @@
 🌱 Завершила курсы по <a href="https://stepik.org/certificate/7e828de38e779c8b3a32efcbee046863fae45820.pdf">Python</a>
  на Stepic 
 
+ 🌱 Завершила курсы по <a href="https://stepik.org/certificate/b1e1eb4a68aaf95457bfecd4c140b62b1f520b16.pdf">Автоматизация тестирования с помощью Selenium и Python</a>
+ на Stepic 
+
 🌱 Завершила курсы по <a href="https://stepik.org/certificate/2d1ec8e38319aabb7a155cad0df6096b0112cdea.png?resolution=medium">Тестированию</a> на Stepic
 
 🌱 Завершила курсы <a href="https://stepik.org/certificate/9c972bb5a0729bcbec231e1e9896a123a893d9a9.pdf"> Postman для тестирования API</a> на Stepic 
