@@ -15,6 +15,8 @@
 
 🔭 Закончила дополнительные курсы по повышению квалификации "Тестирование программного обеспечения"
 
+🔭 Прошла обучение в "Контуре" "Тестирование и автоматизация на C#"
+
 🌱 Завершила курсы по <a href="https://stepik.org/certificate/7e828de38e779c8b3a32efcbee046863fae45820.pdf">Python</a>
  на Stepic 
 
@@ -27,7 +29,7 @@
 
 🌱 Завершила курсы <a href="https://stepik.org/certificate/8579a46dc62c2e2a307f84128b3e0c65d1a4f785.pdf"> Вселенная тестирования</a> на Stepic 
 
-🌱 Заканчиваю обучение по MySQL на Stepic и <a href="https://github.com/trifonova18/-/blob/main/certificate-653c292ccc02750052816047.pdf">SQI Academy</a>
+🌱 Завершила обучение по MySQL на Stepic и <a href="https://github.com/trifonova18/-/blob/main/certificate-653c292ccc02750052816047.pdf">SQI Academy</a>
 
 📫 Как связаться со мной: <a href="https://t.me/nata_trifonova">
     <img src="https://img.shields.io/badge/telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"/>
